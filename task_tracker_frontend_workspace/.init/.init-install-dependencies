@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/taskflow-2102-1a4cdf9e/task_tracker_frontend_workspace/task_tracker_frontend"
+}
