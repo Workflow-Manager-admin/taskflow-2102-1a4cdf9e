@@ -3,11 +3,17 @@
   /* Light theme colors */
   --bg-primary: #ffffff;
   --bg-secondary: #f8f9fa;
-  --text-primary: #282c34;
+  --text-primary: #212121;
   --text-secondary: #61dafb;
   --border-color: #e9ecef;
-  --button-bg: #007bff;
+  --button-bg: #1976d2;
   --button-text: #ffffff;
+  --primary: #1976d2;
+  --accent: #ff9800;
+  --secondary: #424242;
+  --bg: #ffffff;
+  --surface: #f8f9fa;
+  --text: #212121;
 }
 
 [data-theme="dark"] {
